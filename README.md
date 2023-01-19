@@ -17,6 +17,9 @@ End the program.
 
 ### PROGRAM:
 ```
+distance of two points
+developer name:keerthana jayasri s k
+regestration number: 22006582
 import math
 l1 = [4,2]
 l2 = [10,6]
